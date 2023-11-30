@@ -1,1 +1,1 @@
-print('aub')
+print('Salam Aleikum')
